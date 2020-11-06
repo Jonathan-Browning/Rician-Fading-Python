@@ -2,6 +2,10 @@
 
 The Rician fading model implemented in python.
 
+It uses PySimpleGUI, numpy, matplotlib and tkinter.
+
+This was developed on a windows OS, using Spyder IDE with Python 3.8. All the dependencies where installed by anaconda.
+
 Run main.py to start the GUI.
 
 Entering values for the Rician K factor, the root mean sqaure of the signal (\hat{r}^2), and \phi the phase parameter.
