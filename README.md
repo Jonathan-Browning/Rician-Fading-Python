@@ -13,7 +13,7 @@ Runing main.py to start the GUI displays:
   
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Initial_window.png)
 
-Entering values for the Rician K factor, the root mean sqaure of the signal (\hat{r}^2), and \phi the phase parameter:
+Entering values for the Rician K factor, the root mean sqaure of the signal \hat{r}(the input is the squared value), and \phi the phase parameter:
 
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Enter_inputs.png)
 
