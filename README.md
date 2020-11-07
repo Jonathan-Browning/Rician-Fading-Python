@@ -9,6 +9,10 @@ This project uses PySimpleGUI, numpy, matplotlib and tkinter.
 
 This project was developed on a windows OS, using Spyder IDE with Python 3.8. All the dependencies where installed by anaconda.
 
+The input K accepts values in the range 0 to 50.
+The input \hat_r^{2} accepts values in the range 0.5 to 2.5.
+The input \phi accepts values in the range -pi to pi.
+
 Runing main.py to start the GUI displays:
   
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Initial_window.png)
