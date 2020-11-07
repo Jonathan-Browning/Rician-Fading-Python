@@ -10,6 +10,10 @@ Runing main.py to start the GUI displays:
   
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Initial_window.png)
 
-Entering values for the Rician K factor, the root mean sqaure of the signal (\hat{r}^2), and \phi the phase parameter.
+Entering values for the Rician K factor, the root mean sqaure of the signal (\hat{r}^2), and \phi the phase parameter:
 
-The theoretical evenlope PDF and phase PDFs are plotted to compare with the simulation and gives the execution time for the theoretical calculations and simulations together.
+![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Enter_inputs.png)
+
+The theoretical evenlope PDF and phase PDFs are plotted to compare with the simulation and gives the execution time for the theoretical calculations and simulations together:
+
+![ScreenShot](https://raw.github.com/Jonathan-Browning/Rician-Fading-Python/main/docs/Result.png)
