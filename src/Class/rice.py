@@ -5,8 +5,6 @@ Created on Wed Nov  4 18:55:46 2020
 @author: Jonathan Browning
 """
 
-# conda install -c conda-forge miktex is a requirement
-
 import numpy as np
 from scipy.stats import gaussian_kde as kdf
 from scipy import special as sp
