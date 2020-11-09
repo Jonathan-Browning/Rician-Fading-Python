@@ -5,7 +5,7 @@ The Rician fading model implemented in python. Plots the theoretical and simulat
 The Rician fading model describes the small-scale fading ocurring between and transmitter and receiver antenna pair, where a scattered and dominant signal components exist.
 A special case of this model is Rayleigh fading, when only a scattered signal component exists. This is represented by K = 0.
 
-This project uses PySimpleGUI, numpy, matplotlib and tkinter.
+This project uses PySimpleGUI, numpy, scipy, matplotlib and tkinter.
 
 This project was developed on a windows OS, using Spyder IDE with Python 3.8. All the dependencies where installed by anaconda.
 
